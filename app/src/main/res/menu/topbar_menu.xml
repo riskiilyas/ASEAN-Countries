@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/aboutMenu"
+        android:title="@string/about"
+        android:icon="@drawable/about_icon"/>
+
+    <item
+        android:id="@+id/menuExit"
+        android:title="@string/exit"
+        android:icon="@drawable/ic_baseline_exit_to_app_24"/>
+</menu>

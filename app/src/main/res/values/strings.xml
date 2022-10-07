@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ASEAN Countries</string>
+    <string name="sejak">Sejak: </string>
+    <string name="exit">Keluar</string>
+    <string name="about">Tentang</string>
+    <string name="about_desc">Aplikasi ini dibuat sebagai submission tugas akhir pada kelas Android dicoding “Belajar Membuat Aplikasi Android untuk Pemula” .</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="negara">Negara</string>
+    <string name="pengembang_riski_ilyas">Riski Ilyas</string>
+    <string name="dikembangkan_pada_7_oktober_2022">7 Oktober 2022</string>
+    <string name="tentang">Tentang</string>
+</resources>
